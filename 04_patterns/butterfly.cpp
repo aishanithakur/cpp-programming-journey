@@ -1,11 +1,8 @@
 # include <iostream>
 using namespace std;
 
-int main(){
-    int i; int j; int n;
-    cout << "Enter number: ";
-    cin >>n;
-
+void butterfly(int n){
+    int i; int j;
     //top
     for(i=1; i<=n; i++){
         for(j=1; j<=i; j++){
@@ -36,5 +33,12 @@ for(i=1; i<=n; i++){
     }
     cout << endl;
 }
-return 0;
     }
+int main(){
+    int n;
+    cout << "Enter number: ";
+    cin >>n;
+butterfly(n);    //invoking function 
+return 0;
+}
+
