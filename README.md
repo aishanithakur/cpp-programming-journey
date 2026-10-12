@@ -15,3 +15,14 @@ Programs written using user-defined functions.
 
 ### 04 - Patterns
 Star and number patterns using nested loops.
+
+## What I'm Learning
+
+- C++ fundamentals and conditional statements
+- Loops and numerical problem-solving
+- User-defined functions
+- Nested loops and pattern printing
+
+## Progress
+
+I'm building this repository as I learn C++ and practice problem-solving. I'll continue adding programs and exploring new concepts as I progress.
