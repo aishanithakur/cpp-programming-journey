@@ -7,7 +7,7 @@ int countDigits(int n){
     while(n>0){
       rem=n%10;
       n/=10;
-      count++;
+      count++; //count the digits of number
     }
     return count;
   }
@@ -17,8 +17,8 @@ void armstrongNumber(int n){
     while(n>0){
       rem=n%10;
       n/=10;
-      num=pow(rem,count);
-      armstrong+=num;
+      num=pow(rem,count); //use of exponents, rem^count
+      armstrong+=num;     // the digit's power is added of each loop
     }
     if(armstrong==original){
       cout << "Armstrong number";
