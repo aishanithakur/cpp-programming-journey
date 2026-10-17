@@ -1,4 +1,4 @@
-# C++ Beginner Programs
+# C++ Programming Journey 
 
 A collection of beginner-friendly C++ programs that I'm writing and practising as I strengthen my programming fundamentals.
 
