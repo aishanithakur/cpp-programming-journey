@@ -27,12 +27,13 @@ A collection of beginner-friendly C++ programs that I'm writing and practising a
 
 ### 03. Functions and Mathematics
 - Combinations (nCr)
+- GCD of two numbers
   
 ### 04. Patterns
 - Butterfly
-- Flyod's Triangle
+- Floyd's Triangle
 - Hollow Diamond
-- Inverted Trinagle
+- Inverted Triangle
 - Triangular Star
 
 ### 05. Number Problems
@@ -42,6 +43,13 @@ A collection of beginner-friendly C++ programs that I'm writing and practising a
 - Reverse a number
 - Strong Number
 
+### 06. Arrays
+- Sum of Elements
+- Largest and Smallest Element
+- Second largest and Second Smallest
+- Reverse an Array
+- Count Even and Odd Elements
+  
 ## 🛠️ Technologies Used
 
 - **Language:** C++
