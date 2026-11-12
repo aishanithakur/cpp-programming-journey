@@ -6,7 +6,7 @@ A collection of LeetCode problems I've solved while learning Data Structures and
 
 | No. | Problem | Topic | Difficulty | Solution |
 |---|---|---|---|---|
-| 53 | Maximum Subarray | Arrays | Medium | [View Code](arrays/53_maximum_subarray.cpp) |
+| 53 | Maximum Subarray | Arrays | Medium | [View Code](array/53_maximum_subarray.cpp) |
 
 ## Learning Goals
 
