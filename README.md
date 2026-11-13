@@ -49,6 +49,10 @@ A collection of beginner-friendly C++ programs that I'm writing and practising a
 - Second largest and Second Smallest
 - Reverse an Array
 - Count Even and Odd Elements
+
+### 10. Leetcode Problems
+- 53 Maximum Subarray
+- 412 Fizzbuzz
   
 ## 🛠️ Technologies Used
 
