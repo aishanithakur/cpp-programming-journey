@@ -53,6 +53,7 @@ A collection of beginner-friendly C++ programs that I'm writing and practising a
 ### 10. Leetcode Problems
 - 53 Maximum Subarray
 - 412 Fizzbuzz
+- 9 Palindrome
   
 ## 🛠️ Technologies Used
 
