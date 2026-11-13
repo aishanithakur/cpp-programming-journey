@@ -7,7 +7,8 @@ A collection of LeetCode problems I've solved while learning Data Structures and
 | No. | Problem | Topic | Difficulty | Solution |
 |---|---|---|---|---|
 | 53 | Maximum Subarray | Arrays | Medium | [View Code](array/53_maximum_subarray.cpp) |
-| 412| Fizz Buzz        | Math   | Easy   | [View Code](math/412_fizzbuzz.cpp)
+| 412| Fizz Buzz        | Math   | Easy   | [View Code](math/412_fizzbuzz.cpp)         |
+| 9  | Palindrome       | Math   | Easy   | [View Code](math/9_palindrome.cpp)
 ## Learning Goals
 
 - Strengthen problem-solving skills.
