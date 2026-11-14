@@ -1,0 +1,12 @@
+# Compiled C++ executables and object files
+*.exe
+*.out
+*.o
+*.obj
+
+# VS Code local settings
+.vscode/
+
+# OS junk files
+.DS_Store
+Thumbs.db
